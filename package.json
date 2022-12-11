@@ -9,7 +9,7 @@
   "author": "Federico Marroquín Baquero",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemailer": "^6.3.1",
     "pg": "^7.14.0"
   }
